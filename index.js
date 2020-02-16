@@ -1,1 +1,3 @@
-samerda Safe
+samerda dele do {
+    
+} while (condition);
