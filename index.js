@@ -1,3 +1,1 @@
-samerda dele do {
-    
-} while (condition);
+samekkk mara
